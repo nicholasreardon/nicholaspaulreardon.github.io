@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>nicholaspaulreardon music lessons</title>
+		<link rel="favicon" type="text/css" href="C:\Users\Nicholas\Desktop\webside\favicon-badass.ico">
+	</head>
+
+	<body style="background-color: #92D3A5;">
+		<br><br>
+		<hr>
+		<h1>Cragmont Hill Music Lessons</h1>
+		<h3><i>presented by Nicholas paul reardon</i></h3>
+		<hr><br>
+		<div>
+
+			<p><b>こんいちは！<i>Hello!</i></b></p>
+			<img src="C:\Users\Nicholas\Pictures\small buisiness owner\dithered-image.jpg" alt="My face, really excited you are visitng my website (thank you!)" width="400">	　
+			<p>My name is Nicholas Paul Reardon. I am a locally working musician and teacher in the Berkeley area.　<br> For most of my life I've dedicated myself to the continual study and discovery of this art form which inspires me most.<br> Now -- holding a degree in Music/Ethnomusicology from UC Berkeley with several years of formal instruction in multiple instruments spanning genre -- <br> I hope to not only share my  facination for music but cultivate that same great passion in each of my students.</p>
+
+
+			<p>はい！よろしくお願いします</p>
+			<p>(づ ◕‿◕ )づ</p>
+			<br>
+			
+		</div>
+
+
+		<div>
+			<h3>I offer lessons in the following:</h3>
+			<ul>
+				<li>guitar</li>
+				<li>piano</li>
+				<li>bass guitar</li>
+				<li>voice</li>
+				<li>ukulele</li>
+				<li>music theory</li>
+				<li>songwriting</li>
+				<li>band prep/management</li>
+			</ul>
+			<p>I have studied most extensively Latin music from the Carribbean (conservatorio de música de puerto rico), but have also trained in music <br> from Brazil, Mexico, Classical Harmony (common practice period through 20th century), Jazz, Indie Rock, Gospel, American Folk, Funk, Punk, and City Pop. <br>
+			If you don't happen to see your interests represented here, do not fear! I am a lover of all music and am continually learning new things from my students. <br> I encourage you to bring me all of your own interests and for that I will be grateful.</p>
+
+		<!-- this shit about to get freaking nice -->
+
+		<p><h2>What <i>music</i> do you like?</h2>
+
+			<a href="https://www.youtube.com/watch?v=aBkTkxKDduc">
+			minecraft music</a></p>
+		<br>
+
+		<hr>
+		<h1>Setting up lessons:</h1>
+		<p>Hourly Lessons may be scheduled regularly or on a week-to-week basis depending on availability. <br>Lessons may either be held at my studio located at 1030 Cragmont Ave, Berkeley, or by at-home visits if nearby. <br>
+
+			<i>Lessons are at a rate of $60 per session. I strongly believe musical education should be affordable and widely accessible, so if this rate isn't manageable for your student please reach out and I can help with accomodations.</i></p>
+
+			<img src="C:\Users\Nicholas\Pictures\small buisiness owner\studio pics\dithered studio.jpg"><br>
+
+		<p>All students start out with a free trial lesson where we can get to know each other, establish musical interests and goals, and see if lessons would be a good fit.<br>
+		If you are planning on visiting the studio, all I ask is that you call ahead at least a day in advance so that we can ensure a time to visit.<br>
+		If you would like to visit the studio for your first lesson, I provide access to all of the instruments I teach so the student may explore and discover where their interests lie if just starting out.<br>
+		<br>
+		Reach out in anyway most convenient! <br> If leaving a voicemail, be sure to leave the name of the student and perhaps a bit of information regarding which instrument(s) they'd like to learn start learning. <br>If filling out the form, I will be sure to get back to you as soon as possible. <br><br>
+
+
+	</p>
+
+		<table style="margin: 10px;">
+			<tr>
+				<th>email address</th>
+				<th>phone number</th>
+			</tr>
+			<tr>
+				<td>nicholaspaulreardon@gmail.com</td>
+				<td> ９４９・６１３・４８４６</td>
+			</tr>
+
+		</table><br>
+
+		<table>
+			<tr>
+				<th></th>
+				<th>Form</th>
+			</tr>
+			<tr>
+				<td><img src="C:\Users\Nicholas\Pictures\webside\gif22.gif" width="185" style="margin: 40px;"></td>
+				<td>	
+					<form id="interest-form" action="mailto:nicholaspaulreardon@gmail.com" method="POST" enctype="text/plain">
+						<!-- i have no  idea how this  works at all -->
+
+						<label>Name:</label>
+						<input type="text" name="parent name" required><br>
+
+						<label>Name of student:</label>
+						<input type="text" name="student name" required><br>
+
+						<label>Age of student:</label>
+						<input type="number" name="student age" required><br>
+
+						<label>Phone number:</label>
+						<input type="number" name="phone" required><br><br>
+
+						<label>Email:</label>
+						<input type="text" name="email" required><br><br>
+
+						<label><b>Interest(s):</b></label><br>
+							<input type="checkbox" id="electric guitar" name="interest" value="electric guitar">
+							<label for="electric guitar">electric guitar</label><br>
+
+							<input type="checkbox" id="acoustic guitar" name="interest" value="acoustic guitar">
+							<label for="acoustic guitar">acoustic guitar</label><br>
+
+							<input type="checkbox" id="piano" name="interest" value="piano">
+							<label for="piano">piano</label><br>
+
+							<input type="checkbox" id="bass" name="interest" value="bass">
+							<label for="bass">bass</label><br>
+
+							<input type="checkbox" id="voice" name="interest" value="voice">
+							<label for="voice">voice</label><br>
+
+							<input type="checkbox" id="music theory" name="interest" value="music theory">
+							<label for="music theory">music theory</label><br>
+
+							<input type="checkbox" id="voice" name="interest" value="ukulele">
+							<label for="voice">ukulele</label><br>
+
+							<input type="checkbox" id="voice" name="interest" value="bandmgmt">
+							<label for="voice">band management</label><br>
+
+							<input type="checkbox" id="voice" name="interest" value="other">
+							<label for="voice">something exciting and new</label><br></br>
+
+							<p><b>How would you describe your level?</b></p>
+							<input type="radio" id="beginner" name="skill-level" value="beginner">
+							<label for="beginner">Beginner</label>
+							<input type="radio" id="intermediate" name="skill-level" value="intermediate">
+							<label for="intermediate">Intermediate</label>
+							<input type="radio" id="exploring" name="skill-level" value="exploring">
+							<label for="exploring">Exploring!</label>
+							<br>
+
+							<p><b>Where would you like to conduct your lessons?</b></p>
+							<input type="radio" id="studio" name="location" value="studio">
+							<label for="studio">Studio</label>
+							<input type="radio" id="at-home" name="location" value="at-home">
+							<label for="at-home">At-home</label>
+							<br><br>
+
+							<label for="comments"><b>And which <i>music</i> do you like?</b></label><br>
+							<textarea id="comments" name="comments" rows="8"></textarea>
+
+							<p>-----<button type="submit" id="submit">Submit form</button>-----
+
+					</form>
+				</td>
+			</tr>
+
+		</table>
+
+
+
+		<hr>
+		<p style="color: indianred; font-weight:bold; font-family: cursive;">fabulous!</p>
+	
+		<style>
+			#zenbuddhism {
+				color:darkolivegreen;
+				font-weight: lighter;
+				font-family: monospace;
+
+
+			}
+		</style>
+
+		<p id="zenbuddhism">Thank you for visiting my website!</p><br>
+			<img src="C:\Users\Nicholas\Pictures\webside\dithered\dithered-image (17).jpg" alt="me!">
+
+			<img src="C:\Users\Nicholas\Pictures\webside\songcat2.gif" alt="toro running">
+
+		<footer>"lets get out of here toro inoue!" <3</footer>
+
+	</body>
+
+</html>
